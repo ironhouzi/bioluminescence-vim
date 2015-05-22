@@ -1,2 +1,2 @@
 # bioluminescence-vim
-A Vim colour scheme in 256 colours
+Dark, aquatic, bright colours - A Vim colour scheme in 256 colours
